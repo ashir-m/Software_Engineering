@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Biryani&display=swap');
+
+
+*{
+    background-color: lightcoral;
+    font-size: 20px;
+    font-family: 'Biryani';
+}
+.section1{
+    background-color: aquamarine;
+}
+  
+    
